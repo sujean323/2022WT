@@ -28,7 +28,6 @@ int main(){
                 }
             }
         }
-        //cout<<"\b \n";
         break;
     }
     return 0;
