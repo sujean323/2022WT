@@ -7,7 +7,6 @@ int main(){
         for(int i=2; i<=n; i++){
             int power = 0;
             while(n%i==0){
-                //cout<<i<<"*";
                 n = n/i;
                 power++;
             }
